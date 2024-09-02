@@ -18,6 +18,9 @@ public class HomePage {
 	@FindBy(linkText = "Contacts")
 	private WebElement contactLink;
 	
+	@FindBy(linkText="Products")
+	private WebElement productLink; 
+	
 	@FindBy(linkText = "Campaigns")
 	private WebElement campaignLink;
 	
@@ -34,6 +37,10 @@ public class HomePage {
 	public HomePage(WebDriver driver) {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
+	}
+	
+	public WebElement getProductLink() {
+		return productLink;
 	}
 
 	public WebElement getOrgLink() {
