@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-30T11:22:35 IST" name="Default suite" finished-at="2024-08-30T11:37:19 IST" duration-ms="883743">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.createOrgTest()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" name="createOrgTest" class="com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-08-30T11:22:35 IST" name="Default test" finished-at="2024-08-30T11:37:19 IST" duration-ms="883743">
+      <class name="com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:22:35 IST" name="configBS" finished-at="2024-08-30T11:22:35 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:22:35 IST" name="configBC" finished-at="2024-08-30T11:22:39 IST" duration-ms="4152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:22:39 IST" name="configBM" finished-at="2024-08-30T11:22:50 IST" duration-ms="11075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createOrgTest()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:22:50 IST" name="createOrgTest" finished-at="2024-08-30T11:37:05 IST" duration-ms="854400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:37:05 IST" name="configAM" finished-at="2024-08-30T11:37:18 IST" duration-ms="13620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:37:18 IST" name="configAC" finished-at="2024-08-30T11:37:19 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest@4b741d6d]" started-at="2024-08-30T11:37:19 IST" name="configAS" finished-at="2024-08-30T11:37:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.vtiger.crm.orgtestwithpom_combinedtests_testng.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
